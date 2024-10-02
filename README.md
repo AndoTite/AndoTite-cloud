@@ -10,7 +10,7 @@ Encuéntrame en la web 🌎:
 
 
 ---
-⭐️ From [Drey](https://github.com/AndoTite)
+⭐️ From [AndoTite](https://github.com/AndoTite)
  
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndoTite&show_icons=true&theme=transparent)
