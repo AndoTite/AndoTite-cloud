@@ -10,14 +10,14 @@ Encuéntrame en la web 🌎:
 
 
 ---
-⭐️ From [Drey](https://github.com/Dreyuix)
+⭐️ From [Drey](https://github.com/AndoTite)
  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndoTite&show_icons=true&theme=transparent)
 
 
 <!--
-**Dreyuix/Dreyuix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndoTite/AndoTite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
